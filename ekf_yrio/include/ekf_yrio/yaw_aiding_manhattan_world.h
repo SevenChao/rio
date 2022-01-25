@@ -16,6 +16,8 @@
 
 #pragma once
 
+#include <numeric>
+
 #include <angles/angles.h>
 
 #include <rio_utils/data_types.h>
